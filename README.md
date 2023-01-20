@@ -20,5 +20,5 @@ I'm Ömer, I'm working on Android application development. I am sharing my proje
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omergundgr&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omergundgr&layout=compact&theme=tokyonight" height="180"> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omergundgr" alt="omergundgr" />
 </p>
