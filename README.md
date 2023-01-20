@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Ömer, I'm working on Android application development. I am sharing my projects here. I usually use the Flutter programming language for Android projects.
+I'm Ömer, I'm working on Android application development. I am sharing my projects here. I usually use the Flutter / Dart programming language for Android projects.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
