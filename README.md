@@ -1,7 +1,7 @@
-### Hi, Welcome To My Github Profile 👋 👋 👋
+### Merhaba, GitHub Profilime Hoşgeldin 👋 👋 👋
 
-I'm Ömer, I'm working on Android application development. I am sharing my projects here. I usually use the Flutter / Dart programming language for Android projects.
-<h3 align="center">Connect with me:</h3>
+Ben Ömer, Mobil Uygulama Geliştirme alanında kendimi eğitiyorum. Bazı projelerimi burada paylaşıyorum. Şuanda Flutter Framework üzerinden geliştirmeler yapmaktayım.
+<h3 align="center">İletişime Geç:</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=omergundgr&color=green" alt="omergundgr :: Profile Stats"></a>
@@ -9,7 +9,7 @@ I'm Ömer, I'm working on Android application development. I am sharing my proje
 <!---
 <a href="https://www.linkedin.com/in/myUserName/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@myUserName-blue?style=flat&logo=linkedin"></a>
 -->
-<a href="https://www.instagram.com/omergundgr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-omergundgr-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.r10.net/profil/118273-omergundogar.html"><img alt="Instagram" src="https://img.shields.io/static/v1?label=R10.net&message=omergundogar&color=blue"></a>
 </p>
 
 <h3 align="center">Tech I Use:</h3>
